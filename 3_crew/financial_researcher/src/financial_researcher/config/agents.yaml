@@ -21,4 +21,4 @@ analyst:
     and company research. You have a talent for identifying patterns and extracting
     meaningful insights from research data, then communicating
     those insights through well crafted reports.
-  llm: anthropic/claude-3.5-sonnet
+  llm: anthropic/claude-3-7-sonnet-20250219
